@@ -9,7 +9,7 @@
 ## 🔧 Projects I'm Proud Of
 
 ### 🧠 Brain Tumor Segmentation
-A deep learning project using TensorFlow and Keras to segment brain tumors from MRI scans.  
+A deep learning project using TensorFlow and Keras in Python to segment brain tumors from MRI scans.  
 Implemented **Deep Ensembles** to generate uncertainty maps, enhancing prediction reliability.  
 
 ![Brain Tumor Example](https://github.com/SteveAndMore/Brain-Segmentation/blob/main/result.png)
@@ -24,7 +24,7 @@ A Python implementation of the **Wiener filter** for image denoising.
 
 
 ### 💀 Deadly Science
-A 3D multi-player video game about a virus spreading in a maze, using Unity.  
+A 3D multi-player video game about a virus spreading in a maze, using Unity in C#.  
 
 ![Deadly Science Example](https://github.com/Cc618/Deadly-Science/blob/master/res/readme/gameplay2.png)
 
