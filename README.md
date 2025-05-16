@@ -30,6 +30,15 @@ A 3D multi-player video game about a virus spreading in a maze, using Unity.
 
 🔗 [View Project](https://github.com/Cc618/Deadly-Science)
 
+
+### 🖼️ Menamoste Image Editor
+A simple, low level image editor using only the SDL2, in C.  
+
+![Deadly Science Example](https://github.com/Menamoste/Menamoste-software/blob/main/result.png)
+
+🔗 [View Project](https://github.com/Menamoste/Menamoste-software)
+
+
 --- 
 
 ## 🧠 Skills & Interests
