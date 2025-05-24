@@ -22,9 +22,15 @@ A Python implementation of the **Wiener filter** for image denoising.
 
 🔗 [View Project](https://github.com/SteveAndMore/Wiener-Filter)
 
+### ☄️ Raymarcher
+A straightforward **raymarcher** in C++, with and without **OpenGL**
+
+![Raymarcher Example](https://github.com/SteveAndMore/Raymarcher/blob/main/results/result_2.png)
+
+🔗 [View Project](https://github.com/SteveAndMore/Raymarcher)
 
 ### 💀 Deadly Science
-A 3D multi-player video game about a virus spreading in a maze, using Unity in C#.  
+A **3D multi-player video game** about a virus spreading in a maze, using Unity in C#.  
 
 ![Deadly Science Example](https://github.com/Cc618/Deadly-Science/blob/master/res/readme/gameplay2.png)
 
@@ -32,7 +38,7 @@ A 3D multi-player video game about a virus spreading in a maze, using Unity in C
 
 
 ### 🖼️ Menamoste Image Editor
-A simple, low level image editor using only the SDL2, in C.  
+A simple, low level **image editor** using only the SDL2, in C.  
 
 ![Deadly Science Example](https://github.com/Menamoste/Menamoste-software/blob/main/result.png)
 
