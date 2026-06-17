@@ -6,7 +6,7 @@
 
 ---
 
-## 🔧 Projects I'm Proud Of
+## 🔧 School Projects I'm Proud Of
 
 ### 🧠 Brain Tumor Segmentation
 A deep learning project using TensorFlow and Keras in Python to segment brain tumors from MRI scans.  
